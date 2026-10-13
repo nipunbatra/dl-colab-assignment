@@ -1,0 +1,393 @@
+[
+  {
+    "id": "newfoundland",
+    "file": "newfoundland_31.jpg",
+    "title": "Newfoundland",
+    "caption": "a photo of a Newfoundland dog",
+    "credit": "Oxford-IIIT Pet · CC BY-SA 4.0",
+    "source_file": "newfoundland_31.jpg",
+    "source_sha256": "617dc6f6dcd26c69303b54985eadd5c75bc07b8ba22cdb1ea511307096098d0a",
+    "crop_panel": null,
+    "crop_quad": null,
+    "sha256": "d92c061d97c1e161249a3a50cfec23f21f2ae3c80ef5538691f1b5f658e717ce",
+    "original_gallery_sha256": "617dc6f6dcd26c69303b54985eadd5c75bc07b8ba22cdb1ea511307096098d0a",
+    "image_kind": "photograph",
+    "original_gallery_size": [
+      500,
+      334
+    ],
+    "size": [
+      500,
+      334
+    ],
+    "modification": "RGB copy; aspect-preserving Lanczos resize to at most 512 pixels; re-encoded"
+  },
+  {
+    "id": "Persian",
+    "file": "Persian_98.jpg",
+    "title": "Persian cat",
+    "caption": "a photo of a Persian cat",
+    "credit": "Oxford-IIIT Pet · CC BY-SA 4.0",
+    "source_file": "Persian_98.jpg",
+    "source_sha256": "6071d201543c999e063615d6c2cc674ea004adb11711d34d29d3df11c0012292",
+    "crop_panel": null,
+    "crop_quad": null,
+    "sha256": "bc25524a0d462e3c9b9a1049705fc759de098468c6561501db51d60565e14b38",
+    "original_gallery_sha256": "6071d201543c999e063615d6c2cc674ea004adb11711d34d29d3df11c0012292",
+    "image_kind": "photograph",
+    "original_gallery_size": [
+      375,
+      500
+    ],
+    "size": [
+      375,
+      500
+    ],
+    "modification": "RGB copy; aspect-preserving Lanczos resize to at most 512 pixels; re-encoded"
+  },
+  {
+    "id": "pug",
+    "file": "pug_57.jpg",
+    "title": "Pug",
+    "caption": "a photo of a pug",
+    "credit": "Oxford-IIIT Pet · CC BY-SA 4.0",
+    "source_file": "pug_57.jpg",
+    "source_sha256": "c3ffdc25566ae138be7d76121c7225fba6879568739338b240b60d97181d2609",
+    "crop_panel": null,
+    "crop_quad": null,
+    "sha256": "cb3d905e6ba67dbe5f70cf9055e1ad65cf352eef82dfab6b590d4378971dbb9a",
+    "original_gallery_sha256": "c3ffdc25566ae138be7d76121c7225fba6879568739338b240b60d97181d2609",
+    "image_kind": "photograph",
+    "original_gallery_size": [
+      500,
+      333
+    ],
+    "size": [
+      500,
+      333
+    ],
+    "modification": "RGB copy; aspect-preserving Lanczos resize to at most 512 pixels; re-encoded"
+  },
+  {
+    "id": "coffee",
+    "file": "coffee.jpg",
+    "title": "Coffee",
+    "caption": "a cup of coffee on a saucer",
+    "credit": "Rachel Michetti · CC0",
+    "source_file": "coffee.jpg",
+    "source_sha256": "80e2b46bbd310f215a6381ceac2ef7a403c23874ec48b3637cd74177e31ed4ea",
+    "crop_panel": null,
+    "crop_quad": null,
+    "sha256": "57c0957640f05be55a364c9271e751323f8bc8c772a8538b13ccc7166a1c90f8",
+    "original_gallery_sha256": "80e2b46bbd310f215a6381ceac2ef7a403c23874ec48b3637cd74177e31ed4ea",
+    "image_kind": "photograph",
+    "original_gallery_size": [
+      600,
+      400
+    ],
+    "size": [
+      512,
+      341
+    ],
+    "modification": "RGB copy; aspect-preserving Lanczos resize to at most 512 pixels; re-encoded"
+  },
+  {
+    "id": "rocket",
+    "file": "rocket.jpg",
+    "title": "Rocket launch",
+    "caption": "a rocket launching into the night sky",
+    "credit": "SpaceX · CC0",
+    "source_file": "rocket.jpg",
+    "source_sha256": "2d3d62a61bf417fd93253df812c357b86fdfcd50d74b4280ae252455fe7064db",
+    "crop_panel": null,
+    "crop_quad": null,
+    "sha256": "cffb539cfea07bacaf27628d0dc5291e33bc27c59fe0dd43f8d8762093064d17",
+    "original_gallery_sha256": "2d3d62a61bf417fd93253df812c357b86fdfcd50d74b4280ae252455fe7064db",
+    "image_kind": "photograph",
+    "original_gallery_size": [
+      640,
+      427
+    ],
+    "size": [
+      512,
+      342
+    ],
+    "modification": "RGB copy; aspect-preserving Lanczos resize to at most 512 pixels; re-encoded"
+  },
+  {
+    "id": "astronaut",
+    "file": "astronaut.jpg",
+    "title": "Astronaut portrait",
+    "caption": "a portrait of an astronaut",
+    "credit": "NASA · public domain",
+    "source_file": "astronaut.jpg",
+    "source_sha256": "011901a3f9084e22497e2b27642b44a39e8965c4c2febc5ddf2c3ccf298c8787",
+    "crop_panel": null,
+    "crop_quad": null,
+    "sha256": "57c9ffbe820d0d86e0c444c32899883096ce388460511d55479944735a86b6ae",
+    "original_gallery_sha256": "011901a3f9084e22497e2b27642b44a39e8965c4c2febc5ddf2c3ccf298c8787",
+    "image_kind": "photograph",
+    "original_gallery_size": [
+      512,
+      512
+    ],
+    "size": [
+      512,
+      512
+    ],
+    "modification": "RGB copy; aspect-preserving Lanczos resize to at most 512 pixels; re-encoded"
+  },
+  {
+    "id": "chelsea",
+    "file": "chelsea.jpg",
+    "title": "Chelsea the cat",
+    "caption": "a close-up photo of a tabby cat",
+    "credit": "Stefan van der Walt · CC0",
+    "source_file": "chelsea.jpg",
+    "source_sha256": "e8605ae62ddd946bef56bba73435937edcab675f8ef20cdcee29fdbf2d94045f",
+    "crop_panel": null,
+    "crop_quad": null,
+    "sha256": "55a408eff715f95f0ca3a08e341388a54b4d1c015e14b8fff629e50645a9deb5",
+    "original_gallery_sha256": "e8605ae62ddd946bef56bba73435937edcab675f8ef20cdcee29fdbf2d94045f",
+    "image_kind": "photograph",
+    "original_gallery_size": [
+      451,
+      300
+    ],
+    "size": [
+      451,
+      300
+    ],
+    "modification": "RGB copy; aspect-preserving Lanczos resize to at most 512 pixels; re-encoded"
+  },
+  {
+    "id": "portrait",
+    "file": "portrait.png",
+    "title": "Portrait · generated",
+    "caption": "a portrait of a person without a hat",
+    "credit": "AI-generated teaching image · OpenAI image tool · 29 Sep 2026",
+    "source_file": "hat-pair.png",
+    "source_sha256": "0d93aef405f2f5759ecc9b4eb6f1def641943856e5239b2a34c0ce8439dfad61",
+    "crop_panel": 0,
+    "crop_quad": null,
+    "sha256": "a7decd03477d1bf4634cce2463534ce48362fa406fb5272ea5e1b55552732f60",
+    "original_gallery_sha256": "bc5eb910d1855097c89e20f523395f83dd8b9f23f82dcd46ffc87d84650e7397",
+    "image_kind": "generated",
+    "original_gallery_size": [
+      887,
+      887
+    ],
+    "size": [
+      512,
+      512
+    ],
+    "modification": "RGB copy; aspect-preserving Lanczos resize to at most 512 pixels; re-encoded"
+  },
+  {
+    "id": "portrait-hat",
+    "file": "portrait-hat.png",
+    "title": "Portrait with hat · generated",
+    "caption": "a portrait of a person wearing a hat",
+    "credit": "AI-generated teaching image · OpenAI image tool · 29 Sep 2026",
+    "source_file": "hat-pair.png",
+    "source_sha256": "0d93aef405f2f5759ecc9b4eb6f1def641943856e5239b2a34c0ce8439dfad61",
+    "crop_panel": 1,
+    "crop_quad": null,
+    "sha256": "35ddaab8f6b870cb2bcd43eb99adf053f72811452da4b8d0192ad0af96b83f0a",
+    "original_gallery_sha256": "130831b7f580d3c88846ca0dfacd49351ac4d2b75dff117e58964bffba45a660",
+    "image_kind": "generated",
+    "original_gallery_size": [
+      887,
+      887
+    ],
+    "size": [
+      512,
+      512
+    ],
+    "modification": "RGB copy; aspect-preserving Lanczos resize to at most 512 pixels; re-encoded"
+  },
+  {
+    "id": "red-mug",
+    "file": "red-mug.png",
+    "title": "Red mug · generated",
+    "caption": "a red mug",
+    "credit": "AI-generated teaching image · OpenAI image tool · 29 Sep 2026",
+    "source_file": "mug-pair.png",
+    "source_sha256": "ae23ae4a7d653d86614ddb40ec875a597623ec4293a256e202bd6b9d027b4e62",
+    "crop_panel": 0,
+    "crop_quad": null,
+    "sha256": "b595805f7fdd6178a6a78217d49bb9f1786a7d4b95cecf182296c72b69cfe279",
+    "original_gallery_sha256": "f82d07a29ef3451ee78ecb8ccc7006d106144796891de48f3e0fe11895257cee",
+    "image_kind": "generated",
+    "original_gallery_size": [
+      887,
+      887
+    ],
+    "size": [
+      512,
+      512
+    ],
+    "modification": "RGB copy; aspect-preserving Lanczos resize to at most 512 pixels; re-encoded"
+  },
+  {
+    "id": "blue-mug",
+    "file": "blue-mug.png",
+    "title": "Blue mug · generated",
+    "caption": "a blue mug",
+    "credit": "AI-generated teaching image · OpenAI image tool · 29 Sep 2026",
+    "source_file": "mug-pair.png",
+    "source_sha256": "ae23ae4a7d653d86614ddb40ec875a597623ec4293a256e202bd6b9d027b4e62",
+    "crop_panel": 1,
+    "crop_quad": null,
+    "sha256": "b69b9ae8ea0681777faf5d3f6a06e15e8f7e6c3f4f3cb1ad2119e73377764a0f",
+    "original_gallery_sha256": "1641d4d427764850e817a5c9a0be23bf91f7133b8304ec4631b81ee4d78bf598",
+    "image_kind": "generated",
+    "original_gallery_size": [
+      887,
+      887
+    ],
+    "size": [
+      512,
+      512
+    ],
+    "modification": "RGB copy; aspect-preserving Lanczos resize to at most 512 pixels; re-encoded"
+  },
+  {
+    "id": "kiln",
+    "file": "kiln.png",
+    "title": "Brick kiln · generated",
+    "caption": "an aerial view of a brick kiln",
+    "credit": "AI-generated teaching image · OpenAI image tool · 29 Sep 2026",
+    "source_file": "remote-sensing-scenes.png",
+    "source_sha256": "339b88e2e24d20626c26359460f4850cb0ddcf6b78d4609c796a274076692480",
+    "crop_panel": null,
+    "crop_quad": 0,
+    "sha256": "d086ed2681a23672eb3462be4ea1a4cc14e8669bafda3223d1549494ec54ee99",
+    "original_gallery_sha256": "0951c3d7688028b39805d86c5dd43d52005837ce6c1c8c939a30cd77d264f47e",
+    "image_kind": "generated",
+    "original_gallery_size": [
+      627,
+      627
+    ],
+    "size": [
+      512,
+      512
+    ],
+    "modification": "RGB copy; aspect-preserving Lanczos resize to at most 512 pixels; re-encoded"
+  },
+  {
+    "id": "solar",
+    "file": "solar.png",
+    "title": "Solar farm · generated",
+    "caption": "an aerial view of a solar farm",
+    "credit": "AI-generated teaching image · OpenAI image tool · 29 Sep 2026",
+    "source_file": "remote-sensing-scenes.png",
+    "source_sha256": "339b88e2e24d20626c26359460f4850cb0ddcf6b78d4609c796a274076692480",
+    "crop_panel": null,
+    "crop_quad": 1,
+    "sha256": "a829f4c5890addf4641f6791dfab03675485495d991931837d3677f0df3f5068",
+    "original_gallery_sha256": "ba6a6cd420398b4ddf1400da6965185f4c007ff59a2dcded9930669787530f25",
+    "image_kind": "generated",
+    "original_gallery_size": [
+      627,
+      627
+    ],
+    "size": [
+      512,
+      512
+    ],
+    "modification": "RGB copy; aspect-preserving Lanczos resize to at most 512 pixels; re-encoded"
+  },
+  {
+    "id": "fields",
+    "file": "fields.png",
+    "title": "Agricultural fields · generated",
+    "caption": "an aerial view of agricultural fields",
+    "credit": "AI-generated teaching image · OpenAI image tool · 29 Sep 2026",
+    "source_file": "remote-sensing-scenes.png",
+    "source_sha256": "339b88e2e24d20626c26359460f4850cb0ddcf6b78d4609c796a274076692480",
+    "crop_panel": null,
+    "crop_quad": 2,
+    "sha256": "6aeb9165ef29362d5c7663f59e65571372c1981bc2c886ecd3969d27a616eebc",
+    "original_gallery_sha256": "f13c7ceb4c2aa615f20ff8325e3a7bb7266b1e4cb96fbde22c716578da8c03a6",
+    "image_kind": "generated",
+    "original_gallery_size": [
+      627,
+      627
+    ],
+    "size": [
+      512,
+      512
+    ],
+    "modification": "RGB copy; aspect-preserving Lanczos resize to at most 512 pixels; re-encoded"
+  },
+  {
+    "id": "warehouse",
+    "file": "warehouse.png",
+    "title": "Warehouses · generated",
+    "caption": "an aerial view of warehouses",
+    "credit": "AI-generated teaching image · OpenAI image tool · 29 Sep 2026",
+    "source_file": "remote-sensing-scenes.png",
+    "source_sha256": "339b88e2e24d20626c26359460f4850cb0ddcf6b78d4609c796a274076692480",
+    "crop_panel": null,
+    "crop_quad": 3,
+    "sha256": "168ab6c6fa48a3c8e9866c7c7b4fc8dfab7fdaa6cdcc851e0d86c9da00c37169",
+    "original_gallery_sha256": "7b8bc677b5b99261f0534676aaa767265961d7dd52e430a77a93908d155e215b",
+    "image_kind": "generated",
+    "original_gallery_size": [
+      627,
+      627
+    ],
+    "size": [
+      512,
+      512
+    ],
+    "modification": "RGB copy; aspect-preserving Lanczos resize to at most 512 pixels; re-encoded"
+  },
+  {
+    "id": "retriever-photo",
+    "file": "retriever-photo.png",
+    "title": "Dog photograph style · generated",
+    "caption": "a photo of a golden retriever",
+    "credit": "AI-generated teaching image · OpenAI image tool · 29 Sep 2026",
+    "source_file": "photo-sketch-pair.png",
+    "source_sha256": "9f6a7205d8a898e44fc92419907bee2ade76b23929502561c8b2c5ec9827af06",
+    "crop_panel": 0,
+    "crop_quad": null,
+    "sha256": "579d4cda9bf886571628f70175abf2faa3c274acd4262e460f7add039e847654",
+    "original_gallery_sha256": "51ca2b00f2432c70b5d2c11073beeebed22b273aaa152d860c2d1e413b97ea4f",
+    "image_kind": "generated",
+    "original_gallery_size": [
+      887,
+      887
+    ],
+    "size": [
+      512,
+      512
+    ],
+    "modification": "RGB copy; aspect-preserving Lanczos resize to at most 512 pixels; re-encoded"
+  },
+  {
+    "id": "retriever-sketch",
+    "file": "retriever-sketch.png",
+    "title": "Dog sketch · generated",
+    "caption": "a pencil sketch of a golden retriever",
+    "credit": "AI-generated teaching image · OpenAI image tool · 29 Sep 2026",
+    "source_file": "photo-sketch-pair.png",
+    "source_sha256": "9f6a7205d8a898e44fc92419907bee2ade76b23929502561c8b2c5ec9827af06",
+    "crop_panel": 1,
+    "crop_quad": null,
+    "sha256": "0a9d7f7eab2288f0308182e7af83b7d2c754128fa58539ecf8b2f2b2d8a313a8",
+    "original_gallery_sha256": "90252f8c7333e1767a028a40da96abb1624a8bd219f43b9d5f101222a705337f",
+    "image_kind": "generated",
+    "original_gallery_size": [
+      887,
+      887
+    ],
+    "size": [
+      512,
+      512
+    ],
+    "modification": "RGB copy; aspect-preserving Lanczos resize to at most 512 pixels; re-encoded"
+  }
+]

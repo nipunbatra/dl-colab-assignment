@@ -1,0 +1,80 @@
+{
+  "concepts": [
+    "is_red",
+    "is_circle"
+  ],
+  "task": "red-circle vs other",
+  "task_classes": {
+    "0": "other",
+    "1": "red-circle"
+  },
+  "provenance": "Hand-authored illustrative binary concept predictions; NOT trained model output. Shape images rendered with Pillow.",
+  "head": {
+    "weights": [
+      1,
+      1
+    ],
+    "bias": -1.5,
+    "decision_threshold": 0,
+    "decision_rule": "class 1 if dot(weights, concepts) + bias >= decision_threshold; otherwise class 0",
+    "input": "only the two binary concept values; strict concept bottleneck"
+  },
+  "examples": [
+    {
+      "id": "red_circle",
+      "file": "concepts/red_circle.png",
+      "concept_labels": [
+        1,
+        1
+      ],
+      "task_label": 1,
+      "concept_predictions": [
+        0,
+        1
+      ],
+      "sha256": "50bdfdd96a0ffdd3d4eb035694ef87c16558223bc6f71a46f1edf53918e60fcc"
+    },
+    {
+      "id": "red_square",
+      "file": "concepts/red_square.png",
+      "concept_labels": [
+        1,
+        0
+      ],
+      "task_label": 0,
+      "concept_predictions": [
+        1,
+        0
+      ],
+      "sha256": "dfc9e89ea62ef241324b3207c7c9776e9a5fd276cdb4f696f746ab23176b2cb3"
+    },
+    {
+      "id": "blue_circle",
+      "file": "concepts/blue_circle.png",
+      "concept_labels": [
+        0,
+        1
+      ],
+      "task_label": 0,
+      "concept_predictions": [
+        0,
+        1
+      ],
+      "sha256": "b96e5a2d6bee4296c710776cd785d0a3dc0282f5dfaa1e9e6f088128515bd46f"
+    },
+    {
+      "id": "blue_square",
+      "file": "concepts/blue_square.png",
+      "concept_labels": [
+        0,
+        0
+      ],
+      "task_label": 0,
+      "concept_predictions": [
+        0,
+        0
+      ],
+      "sha256": "f96716a825e3f6a1533a0183871e35ea3e370661ea58229fe86373053da160df"
+    }
+  ]
+}

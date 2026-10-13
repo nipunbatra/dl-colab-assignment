@@ -1,0 +1,70 @@
+{
+  "provenance": "Hand-authored illustrative vectors; not CLIP model outputs.",
+  "pair_ids": [
+    "red_circle",
+    "blue_square",
+    "green_triangle",
+    "yellow_star"
+  ],
+  "image_vectors": [
+    [
+      1,
+      0.1,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0.1,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      0.1
+    ],
+    [
+      0.1,
+      0,
+      0,
+      1
+    ]
+  ],
+  "text_vectors": [
+    [
+      1,
+      0.05,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0.05,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      0.05
+    ],
+    [
+      0.05,
+      0,
+      0,
+      1
+    ]
+  ],
+  "tau": 0.1,
+  "permutation": [
+    2,
+    0,
+    3,
+    1
+  ],
+  "pairing": "Image and text rows with the same index are paired before permutation.",
+  "permutation_convention": "Reorder text rows as text_vectors[permutation]; vectors are supplied unnormalized."
+}
