@@ -58,4 +58,4 @@ The supplied toy pipeline is `image → [is_red, is_circle] → red-circle / oth
 - Cite any borrowed code and disclose AI assistance. Be prepared to explain your functions.
 - No screenshots of private files or personal data are needed.
 
-Release and deadline will be set by the instructor. The VLM settings and runtime estimates remain provisional until the instructor pilot is complete.
+Release and deadline will be set by the instructor. These fixed settings passed a Colab T4 instructor pilot; see [RUNTIME.md](RUNTIME.md) for measured timings and their limits.
